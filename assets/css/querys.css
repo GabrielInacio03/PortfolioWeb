@@ -1,0 +1,9 @@
+@media (min-width: 1100px){
+    header img{
+        margin-right: 5rem;        
+    }
+    .info-content-icons{
+        position: relative;
+        top: 5rem;
+    }
+}
